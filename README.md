@@ -1,5 +1,3 @@
-# Kickstarter-Crowdfunding-Predection-
-
 # Kickstarter Campaign Funding Prediction
 
 A regression study predicting the final USD amount raised by Kickstarter campaigns (`log_target = log1p(target_usd)`), comparing five independent modeling paradigms — classical tabular ML, GBDT stacking, NLP embeddings, unsupervised clustering, and LLM fine-tuning — evaluated on a common 9-metric suite. Built as a CSE445 (NSU) machine learning course project.
